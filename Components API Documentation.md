@@ -10,7 +10,7 @@ In this example, we'll use our blank-slate AngularJS template to build a utility
 
 (The AngularJS template just makes it easy to get started. You can also create a project from scratch that utilizes the [Components JavaScript library](https://github.com/sn-extensions/components-api).)
 
-1. Clone the blank-slate project from GitHub:
+1. Clone the [blank-slate](https://github.com/sn-extensions/blank-slate) project from GitHub:
 
 		git clone https://github.com/sn-extensions/blank-slate
 
