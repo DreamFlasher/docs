@@ -1,3 +1,5 @@
+# Components API Documentation
+
 Components are UI blocks that can replace or be appended to sections of the Standard Notes desktop and web app. They allow us to do cool things like nested folders, tag autocomplete, and utility bars in the editor pane.
 
 Building a component is easily done using the our JavaScript Components library. All you have to do is build a single-page web app using any framework you like (plain, Angular, React, etc), then use our components library to interact with the main window to save and request data.
@@ -6,7 +8,7 @@ Building a component is easily done using the our JavaScript Components library.
 
 In this example, we'll use our blank-slate AngularJS template to build a utility bar that counts the number of words in the current note.
 
-(The AngularJS template just makes it easy to get started. You can also create a project from scratch that utilizes the Components JavaScript library.
+(The AngularJS template just makes it easy to get started. You can also create a project from scratch that utilizes the [Components JavaScript library](https://github.com/sn-extensions/components-api).)
 
 1. Clone the blank-slate project from GitHub:
 
