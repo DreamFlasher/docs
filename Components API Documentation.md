@@ -12,7 +12,7 @@ In this example, we'll use our blank-slate AngularJS template to build a utility
 
 1. Clone the [blank-slate](https://github.com/sn-extensions/blank-slate) project from GitHub:
 
-		git clone https://github.com/sn-extensions/blank-slate
+		git clone https://github.com/sn-extensions/blank-slate.git
 
 2. Build the project:
 
